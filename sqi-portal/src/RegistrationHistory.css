@@ -1,0 +1,13 @@
+.registration-history {
+  font-size: 14px;
+  color: #343a40;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+}
+
+select.form-select-sm {
+  font-size: 14px;
+  padding: 4px 10px;
+}

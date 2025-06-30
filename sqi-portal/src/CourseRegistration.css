@@ -1,0 +1,19 @@
+.course-registration-section {
+    font-size: 14px;
+    color: #343a40;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.course-row:hover {
+    background-color: #f8f9fa;
+    transition: 0.3s;
+}
+
+.btn-outline-danger {
+    padding: 4px 8px;
+    font-size: 13px;
+}

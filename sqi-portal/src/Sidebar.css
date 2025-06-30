@@ -1,0 +1,30 @@
+.sidebar-container{
+    background-color: #0c0938;
+    height: 100%;
+    width: 240px;
+    position: fixed;
+}
+li{
+    padding: 8px;
+}
+
+li:hover {
+    background-color: #130e6475;
+}
+
+.app-container {
+ display: flex;
+  height: 100%;
+}
+
+.sidebar {
+  width: 240px;
+  background-color: #333;
+  color: white;
+}
+
+.main-content {
+  flex: 1; /* Take all remaining space */
+  background-color: #eeeeee;
+  height: 100%;
+}

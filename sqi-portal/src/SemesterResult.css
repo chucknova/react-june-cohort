@@ -1,0 +1,11 @@
+.semester-result-section {
+  font-size: 14px;
+  color: #343a40;
+}
+
+.empty-result-box {
+  background-color: #f8f9fa;
+  padding: 30px;
+  border-radius: 8px;
+  max-width: 300px;
+}

@@ -1,0 +1,10 @@
+.documents-section {
+    font-size: 14px;
+    color: #343a40;
+}
+
+.empty-doc {
+    padding: 30px 0;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
